@@ -1,0 +1,14 @@
+*.a
+*.tgz
+*.o
+\#*\#
+.\#*
+*.sw[po]
+~*
+*~
+a.out
+*.autosave
+SantaKoalaus
+santa
+*.xml
+*.pdf
